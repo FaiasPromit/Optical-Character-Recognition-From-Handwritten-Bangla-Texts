@@ -1,0 +1,1 @@
+# Optical-Character-Recognition-From-Handwritten-Bangla-Texts
