@@ -18,6 +18,6 @@ Welcome to the repository for my thesis dissertation on Optical Character Recogn
 **Thesis Dissertation**:
 - The full text of my thesis dissertation is available in the [Thesis Dissertation of Faias Satter.pdf] file.
 
-I am committed to open science and sharing my research findings. Once my research publications are complete and the results are published, I intend to release the associated code publicly. In the meantime, if you have any questions or would like to discuss my research, please feel free to contact me at [your-email@example.com].
+I am committed to open science and sharing my research findings. Once my research publications are complete and the results are published, I intend to release the associated code publicly. In the meantime, if you have any questions or would like to discuss my research, please feel free to contact me at [faiaspromit@gmail.com].
 
 Thank you for your understanding and interest in my work.
