@@ -1,24 +1,65 @@
-# Optical-Character-Recognition-From-Handwritten-Bangla-Texts
+# Optical Character Recognition From Handwritten Bangla Texts
 
-# Faias Satter
-# Roll - 1707116
-# Department of Computer Science and Engineering
-# Khulna University of Engineering & Technology, Khulna.
+Undergraduate thesis by **Faias Satter** (Roll 1707116)  
+Department of Computer Science and Engineering, Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
 
-# Thesis Dissertation Repository
+This repository holds my undergraduate thesis. The work was published as the papers below, and the code for each paper is in its own repository.
 
-Welcome to the repository for my thesis dissertation on Optical Character Recognition From Handwritten Bangla Texts. Please note that I am currently in the process of finalizing four research publications that originated from this work. Due to intellectual property considerations and to prevent the possibility of code theft prior to publication, I have chosen not to share the research code at this time.
+## Papers and code
 
-**Publication Status**:
-- Publication 1: Color Independent Word Segmentation From Transcribed Bangla Passages - DOI - https://doi.org/10.1109/EICT61409.2023.10427730
-- Publication 2: Open Vocabulary Word Recognition From Transcribed Bangla Texts - DOI - https://doi.org/10.1109/ICCIT60459.2023.10441393
-- Publication 3: Dissimilarity Matrix: Bridging the Gap of Bangla OCR Error Correction Through a Novel Approach - DOI - https://doi.org/10.1109/STI59863.2023.10464527
-- Publication 4: Preparing Manuscript
-- Dataset : PromitoLipi: A versatile offline dataset of handwritten Bangla words and paragraphs - DOI - [10.17632/fnw59h7y89.2](https://data.mendeley.com/datasets/fnw59h7y89/2)
+| Paper | Venue | Read | Code |
+|---|---|---|---|
+| Color Independent Word Segmentation From Transcribed Bangla Passages | EICT 2023 | [IEEE](https://doi.org/10.1109/EICT61409.2023.10427730) · [arXiv](https://arxiv.org/abs/2610.01191) | [Code](https://github.com/FaiasPromit/Color-Independent-Word-Segmentation-From-Transcribed-Bangla-Passages) |
+| Open Vocabulary Word Recognition From Transcribed Bangla Texts | ICCIT 2023 | [IEEE](https://doi.org/10.1109/ICCIT60459.2023.10441393) · [arXiv](https://arxiv.org/abs/2610.01134) | [Code](https://github.com/FaiasPromit/Open-Vocabulary-Word-Recognition-From-Transcribed-Bangla-Texts) |
+| Dissimilarity Matrix: Bridging the Gap of Bangla OCR Error Correction Through a Novel Approach | STI 2023 | [IEEE](https://doi.org/10.1109/STI59863.2023.10464527) |
 
-**Thesis Dissertation**:
-- The full text of my thesis dissertation is available in the [Thesis Dissertation of Faias Satter.pdf] file.
+## Dataset
 
-I am committed to open science and sharing my research findings. Once my research publications are complete and the results are published, I intend to release the associated code publicly. In the meantime, if you have any questions or would like to discuss my research, please feel free to contact me at [faiaspromit@gmail.com].
+**PromitoLipi: A versatile offline dataset of handwritten Bangla words and paragraphs** was created for this thesis. It is available on [Mendeley Data](https://data.mendeley.com/datasets/fnw59h7y89/2) (DOI: [10.17632/fnw59h7y89.2](https://doi.org/10.17632/fnw59h7y89.2)).
 
-Thank you for your understanding and interest in my work.
+## Thesis
+
+The full thesis is available here: [Thesis Dissertation of Faias Satter.pdf](Thesis%20Dissertation%20of%20Faias%20Satter.pdf)
+
+## Citation
+
+If you use this work, please cite the relevant paper:
+
+```bibtex
+@inproceedings{satter2023color,
+  author    = {Satter, Faias and Masrur, Noor and Ahsan, Sk. Md. Masudul},
+  title     = {Color Independent Word Segmentation From Transcribed Bangla Passages},
+  booktitle = {2023 6th International Conference on Electrical Information and Communication Technology (EICT)},
+  year      = {2023},
+  doi       = {10.1109/EICT61409.2023.10427730}
+}
+
+@inproceedings{satter2023open,
+  author    = {Satter, Faias and Ahsan, Sk. Md. Masudul},
+  title     = {Open Vocabulary Word Recognition From Transcribed Bangla Texts},
+  booktitle = {2023 26th International Conference on Computer and Information Technology (ICCIT)},
+  year      = {2023},
+  doi       = {10.1109/ICCIT60459.2023.10441393}
+}
+
+@inproceedings{masrur2023dissimilarity,
+  author    = {Masrur, Noor and Satter, Faias and Ahsan, Sk. Md. Masudul},
+  title     = {Dissimilarity Matrix: Bridging the Gap of Bangla OCR Error Correction Through a Novel Approach},
+  booktitle = {2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI)},
+  year      = {2023},
+  doi       = {10.1109/STI59863.2023.10464527}
+}
+
+@misc{satter2024promitolipi,
+  author    = {Satter, Faias and Ahsan, Masudul},
+  title     = {PromitoLipi: A versatile offline dataset of handwritten Bangla words and paragraphs},
+  year      = {2024},
+  publisher = {Mendeley Data},
+  version   = {2},
+  doi       = {10.17632/fnw59h7y89.2}
+}
+```
+
+## Contact
+
+For questions, email faiaspromit@gmail.com.
